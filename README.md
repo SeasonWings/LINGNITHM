@@ -12,6 +12,9 @@
 电路主控芯片使用了ATMEGA SAMD21 MCU，触摸IC使用了MPR121，AIR抬手感应使用了红外对射灯珠
 
 基本连接思路为 主控板-触摸板   主控板-AIR发射/接收转接器-HDMI线材-AIR发射/接收
+
+如图所示
+![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%86%85%E9%83%A8%E6%9E%84%E9%80%A0.jpg)
                 
 固件方面  
 MPR121调参库使用了@ilufang的MPR121库
@@ -26,3 +29,6 @@ PCB1.1更新，修复几个错误
 1.0更新
   PCB Gerber文件不变，钣金外壳得以完善。
   现在完全否定了打印外壳的想法啦！
+
+# 外观展示
+![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%A4%96%E8%A7%821.jpg)
