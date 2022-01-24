@@ -9,7 +9,7 @@
 # 控制器构成
 控制器基于Arduino IDE，使用第三方的platfromIO编写固件程序
 
-电路主控芯片使用了ATMEGA SAMD21 MCU，触摸IC使用了MPR121，AIR抬手感应使用了红外对射灯珠
+电路主控芯片使用了ATMEGA SAMD21 MCU，触摸IC使用了MPR121，AIR抬手感应使用了940MM红外对射灯珠
 
 基本连接思路为 主控板-触摸板   主控板-AIR发射/接收转接器-HDMI线材-AIR发射/接收
 
@@ -21,6 +21,9 @@
 
 上传方面
 你需要购买Jlink上传器，通过SEGGER软件向SAMD21上传固件以及BootLoader
+
+物料方面
+请在制作完PCB之后自行对照丝印（其实是我懒得整理BOM）
 
 其余方面想到再补充（
 
