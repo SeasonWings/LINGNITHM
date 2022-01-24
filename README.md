@@ -14,14 +14,11 @@
 如图所示
 ![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%86%85%E9%83%A8%E6%9E%84%E9%80%A0.jpg)
                 
-* [固件方面](https://github.com/SeasonWings/LINGNITHM/tree/main/BootLoader%26Firmware)  
-有参考GSK，XPENG，ilufang，Sucareto等大佬的代码，在此特别提出感谢！！！
+* [固件方面](https://github.com/SeasonWings/LINGNITHM/tree/main/BootLoader%26Firmware) 有参考GSK，XPENG，ilufang，Sucareto等大佬的代码，在此特别提出感谢！！！
 
-* 上传方面
-你需要购买Jlink上传器，通过SEGGER软件向SAMD21上传固件以及BootLoader
+* 上传方面 你需要购买Jlink上传器，通过SEGGER软件向SAMD21上传固件以及BootLoader
 
-* [物料方面](https://github.com/SeasonWings/LINGNITHM/blob/main/PCB%20Gerber%E5%88%B6%E7%89%88%E6%96%87%E4%BB%B61.1/PCB%E7%89%A9%E6%96%99BOM%E8%A1%A8.xlsx)
-请在制作完PCB之后自行对照丝印(此句划掉，现在有了)
+* [物料方面](https://github.com/SeasonWings/LINGNITHM/blob/main/PCB%20Gerber%E5%88%B6%E7%89%88%E6%96%87%E4%BB%B61.1/PCB%E7%89%A9%E6%96%99BOM%E8%A1%A8.xlsx) 请在制作完PCB之后自行对照丝印(此句划掉，现在有了)
 
 其余方面想到再补充(
 
