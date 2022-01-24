@@ -23,9 +23,9 @@
 你需要购买Jlink上传器，通过SEGGER软件向SAMD21上传固件以及BootLoader
 
 物料方面
-请在制作完PCB之后自行对照丝印（其实是我懒得整理BOM）
+请在制作完PCB之后自行对照丝印(其实是我懒得整理BOM)
 
-其余方面想到再补充（
+其余方面想到再补充(
 
 #Update
 
@@ -36,3 +36,8 @@
 
 # 外观展示
 ![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%A4%96%E8%A7%821.jpg)
+
+#控制器使用展示
+https://www.bilibili.com/video/BV1Qm4y1Z7ms/
+
+如果觉得非常棒，可以给我一个一键三连么(
