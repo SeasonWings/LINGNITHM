@@ -27,7 +27,7 @@
 
 其余方面想到再补充(
 
-#Update
+# Update
 
 1.0更新
   脱胎换骨！现在你可以使用金属化的控制器外壳了！
@@ -37,7 +37,7 @@
 # 外观展示
 ![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%A4%96%E8%A7%821.jpg)
 
-#控制器使用展示
+# 控制器使用展示
 https://www.bilibili.com/video/BV1Qm4y1Z7ms/
 
 如果觉得非常棒，可以给我一个一键三连么(
