@@ -7,11 +7,9 @@
 * 一定的动手能力，能完成包括但不限于拧螺丝，贴片焊接，调试硬件等能力
 
 # 控制器构成
-控制器基于Arduino IDE，使用第三方的platfromIO编写固件程序
-
-电路主控芯片使用了ATMEGA SAMD21 MCU，触摸IC使用了MPR121，AIR抬手感应使用了940MM红外对射灯珠
-
-基本连接思路为 主控板-触摸板   主控板-AIR发射/接收转接器-HDMI线材-AIR发射/接收
+* 控制器基于Arduino IDE，使用第三方的platfromIO编写固件程序
+* 电路主控芯片使用了ATMEGA SAMD21 MCU，触摸IC使用了MPR121，AIR抬手感应使用了940MM红外对射灯珠
+* 基本连接思路为 主控板-触摸板   主控板-AIR发射/接收转接器-HDMI线材-AIR发射/接收
 
 如图所示
 ![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%86%85%E9%83%A8%E6%9E%84%E9%80%A0.jpg)
