@@ -19,6 +19,9 @@
 固件方面  
 MPR121调参库使用了@ilufang的MPR121库
 
+上传方面
+你需要购买Jlink上传器，通过SEGGER软件向SAMD21上传固件以及BootLoader
+
 其余方面想到再补充（
 
 
