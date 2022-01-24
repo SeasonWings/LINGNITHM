@@ -32,7 +32,7 @@
 #### 1.0更新
   * 脱胎换骨！现在你可以使用金属化的控制器外壳了！
   * 新的PCB设计改动以适配新的外壳。
-  * 新的固件，包含直连协议，需要配合[修改后的chuniio](https://github.com/SeasonWings/LINGNITHM/blob/main/BootLoader%26Firmware/1.0%20Ver/chuniio%26Segatools/chuniio.dll "请务必将你的控制器设备放在COM1端口上！")使用,以及更加炫酷的灯光，更优的触摸算法。
+  * 新的固件，包含直连协议，需要配合[修改后的chuniio和Segatools.ini](https://github.com/SeasonWings/LINGNITHM/tree/main/BootLoader%26Firmware/1.0%20Ver/chuniio%26Segatools "请务必将你的控制器设备放在COM1端口上！")使用,以及更加炫酷的灯光，更优的触摸算法。
   * 最新最热PCB物料BOM表已更新，感谢群友海腾的帮助！
 
 # 外观展示
