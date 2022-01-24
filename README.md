@@ -17,7 +17,7 @@
 ![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%86%85%E9%83%A8%E6%9E%84%E9%80%A0.jpg)
                 
 固件方面  
-有参考GSK，XPENG等大佬的固件，在此提出感谢！
+有参考GSK，XPENG，ilufang，Sucareto等大佬的代码，在此特别提出感谢！！！
 
 上传方面
 你需要购买Jlink上传器，通过SEGGER软件向SAMD21上传固件以及BootLoader
