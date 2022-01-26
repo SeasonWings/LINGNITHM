@@ -8,7 +8,7 @@
 
 # 控制器构成
 * 控制器基于Arduino IDE，使用第三方的platfromIO编写固件程序
-* 电路主控芯片使用了ATMEGA SAMD21 MCU，触摸IC使用了MPR121，AIR抬手感应使用了940MM红外对射灯珠
+* 电路主控芯片使用了ATMEGA SAMD21G18A MCU，触摸IC使用了MPR121，AIR抬手感应使用了940MM红外对射灯珠
 * 基本连接思路为 主控板-触摸板   主控板-AIR发射/接收转接器-HDMI线材-AIR发射/接收
 
 如图所示
