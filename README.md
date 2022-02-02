@@ -34,6 +34,11 @@
   * 新增设置模式下的操作逻辑，稍后使用PDF文件进行说明
   * 现在你可以为你的键盘以及Air灯光效果自由编辑喜欢的灯光样式啦！
 
+#### 3.0更新
+  * LINGCON Setting的操作UI有部分变动
+  * Setting进入逻辑修改，改变为全押Air
+  * Setting新增直连模式触摸校准（黄色按钮）
+
 # 外观展示
 ![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%A4%96%E8%A7%821.jpg)
 
