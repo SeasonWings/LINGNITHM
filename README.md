@@ -37,7 +37,13 @@
 #### 3.0更新
   * LINGCON Setting的操作UI有部分变动
   * Setting进入逻辑修改，改变为全押Air
-  * Setting新增直连模式触摸校准（黄色按钮）
+
+### 久违的更新（
+#### 4.0更新
+  * 代码触摸逻辑有大幅改动，现在触摸或许会更灵敏了(?)
+  * Setting新增触摸校准（黄色按钮），用手指用你认为最小的力度划过触摸区来完成校准
+  * 改变了新的上传Firmware方式，现在更加方便了,旧固件停止维护
+  * 同时公开部分底层源代码，有能人士可以按自己所需添加想要的功能，详情见Source code
 
 # 外观展示
 ![](https://github.com/SeasonWings/LINGNITHM/blob/main/picture/%E5%A4%96%E8%A7%821.jpg)
