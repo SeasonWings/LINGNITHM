@@ -12,4 +12,3 @@
 ####3.0更新
   * LINGCON Setting的操作UI有部分变动
   * Setting进入逻辑修改，改变为全押Air
-  * Setting新增直连模式触摸校准（黄色按钮）
